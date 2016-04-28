@@ -12,11 +12,11 @@ Start by skimming/reading through these books
 - The Intelligent Investor [amazon](http://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8/ref=mt_kindle?_encoding=UTF8&me=) / [goodreads](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor?from_new_nav=true&ac=1&from_search=true)
 
 ## Breaking Down
-** Financial Instruments
-** Financial Modelling
-** Valuation
-** Portfolio Theory
-** Risk Assessment
-** Trading
+- Financial Instruments
+- Financial Modelling
+- Valuation
+- Portfolio Theory
+- Risk Assessment
+- Trading
 
 
